@@ -1,0 +1,9 @@
+﻿namespace LocalizationSampleApp.Behaviors
+{
+    public enum NavigationViewHeaderMode
+    {
+        Always,
+        Never,
+        Minimal
+    }
+}

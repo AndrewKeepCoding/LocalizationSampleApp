@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Shell_Main.Content" xml:space="preserve">
+    <value>メイン</value>
+  </data>
+  <data name="Settings_Personalization.Text" xml:space="preserve">
+    <value>個人設定</value>
+  </data>
+  <data name="Settings_Theme.Text" xml:space="preserve">
+    <value>テーマ</value>
+  </data>
+  <data name="Settings_Theme_Light.Content" xml:space="preserve">
+    <value>ライト</value>
+  </data>
+  <data name="Settings_Theme_Dark.Content" xml:space="preserve">
+    <value>ダーク</value>
+  </data>
+  <data name="Settings_Theme_Default.Content" xml:space="preserve">
+    <value>デフォルト</value>
+  </data>
+  <data name="Settings_About.Text" xml:space="preserve">
+    <value>アプリについて 😎</value>
+  </data>
+  <data name="LocalizationChangedMessage.Text" xml:space="preserve">
+    <value>アプリケーションの再起動が必要です。</value>
+  </data>
+  <data name="Settings_Language.Text" xml:space="preserve">
+    <value>言語</value>
+  </data>
+</root>
